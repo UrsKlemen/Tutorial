@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dc88341cbaaac9d67a982378e5df68d8c81289ed">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0-alpha2_b559b72e99786b4c6930b20215d291fcb5a4c097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0-alpha2_9f2dbb10dbb4ea8e8611146b643b977b856bea9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha2_e5c071f2da5b4b44fd50a9dd83b0f70195c4d52a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a18e14a83cbadb7cdb2da2319a3a16cd57510451">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2e6d154e42e20160d2ad2dbaa7e0acf251152211\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0-alpha2_eb1b33f60d674e37059926d2a8127c0bd505edb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f417d93e1f62fd4fb4a2c0f3a4a882dd0ca7843">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0-alpha2_f545850070b084473efee51af5bb45bfe65026ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b84d73cfc1ffd4885aa2506eb4319484b2447a74">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5478e1336c7e92117df74f9e74c3e8ee99d3fe41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Klemen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-alpha2_544843d24f17509ccdb5e78ea87bd86ab44d1cd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0-alpha2_6b6df2d5cfa1d0de3dec5ffe67374fbc7610a598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="D:\FERI\ProjektRestavracije\Restavracije\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha2_6f3191bc0e63b22ffb93acd7825de1a366d6245e\classes.dex" />
+    </item>
+
+</items>

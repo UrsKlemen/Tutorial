@@ -1,0 +1,7 @@
+#Sat Nov 26 19:20:18 CET 2016
+base.0=D\:\\FERI\\ProjektRestavracije\\Restavracije\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5478e1336c7e92117df74f9e74c3e8ee99d3fe41
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\FERI\\ProjektRestavracije\\Restavracije\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2e6d154e42e20160d2ad2dbaa7e0acf251152211\\classes.dex
+base.1=D\:\\FERI\\ProjektRestavracije\\Restavracije\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2e6d154e42e20160d2ad2dbaa7e0acf251152211
+file.0=D\:\\FERI\\ProjektRestavracije\\Restavracije\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5478e1336c7e92117df74f9e74c3e8ee99d3fe41\\classes.dex

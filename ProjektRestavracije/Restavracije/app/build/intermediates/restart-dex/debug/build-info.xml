@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="178643827803667"
+    token="9000343112212395879"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1645" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="736" />
+    <task
+        name="verifier"
+        duration="144" />
+
+    <artifact
+        location="D:\FERI\ProjektRestavracije\Restavracije\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="178643827803667"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\FERI\ProjektRestavracije\Restavracije\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
